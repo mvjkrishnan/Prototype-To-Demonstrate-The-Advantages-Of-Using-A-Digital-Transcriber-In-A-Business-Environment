@@ -1,5 +1,5 @@
 # Prototype-To-Demonstrate-The-Advantages-Of-Using-A-Digital-Transcriber-In-A-Business-Environment
-# Co-Created with sujithksam92
+Co-Created with sujithksam92
 
 Communication is a big issue in today's world. In a survey of 400 companies, an average loss of $62.4 million per year was recorded due to miscommunication. This can be attributed to various different issues in the workforce, the work environment or the communications channels. Businesses have diverse ways of running their day to day communications. Depending on the type of business, there are varying communication protocols affected by the size of the business, scale, diversity, hierarchy etc. For example, a software product business might be using Agile as it's development methodology. There is a need for strong communication channels between multi-disciplinary teams, probably located in different geographies, to be established for this kind of methodologies to be effective. This calls for detailed documentation, frequent communication and a lot of cooperation in the system. The need to have a human resource to ensure that communications are in place, that everyone knows about the deliverables and proceedings in their projects, is quite redundant. Further, this is not the most optimal way of doing things.
 
